@@ -1,2 +1,2 @@
-private constant string PART_AUTH_TYPE=part_AUTHTYPE;
+private constant string TEMP_AUTH_TYPE=temp_AUTHTYPE;
 RecognizesAccessKey="True";
